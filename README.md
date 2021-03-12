@@ -1,3 +1,6 @@
+# Disclaimer
+I've forked this from the original repository, this is an old version that was used with react-navigation@3 and it hasn't been updated to support iphone 12. In this repo, it has been updated.
+
 # react-native-safe-area-view
 
 This is a JS-only version of React Native's SafeAreaView, it adds a small api that makes SafeAreaView more flexible for complex UIs.
